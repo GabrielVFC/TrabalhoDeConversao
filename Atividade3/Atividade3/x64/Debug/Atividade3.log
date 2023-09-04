@@ -1,0 +1,5 @@
+﻿  Atividade3.cpp
+D:\coisas\Logica\Trabalho facul\Atividade3\Atividade3\Atividade3.cpp(15,19): warning C4244: '+=': conversão de 'double' para 'int', possível perda de dados
+D:\coisas\Logica\Trabalho facul\Atividade3\Atividade3\Atividade3.cpp(30,20): warning C4244: '+=': conversão de 'double' para 'int', possível perda de dados
+D:\coisas\Logica\Trabalho facul\Atividade3\Atividade3\Atividade3.cpp(58,20): warning C4244: '+=': conversão de 'double' para 'int', possível perda de dados
+  Atividade3.vcxproj -> D:\coisas\Logica\Trabalho facul\Atividade3\x64\Debug\Atividade3.exe
